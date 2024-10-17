@@ -1,7 +1,7 @@
 # **Salary Analysis**
 
 ## **Overview**
-This repository contains a Jupyter Notebook titled `Salary_analysis.ipynb`, which provides an in-depth analysis of salary data. The analysis aims to uncover trends, insights, and factors that influence salaries across various professions and demographics.
+This repository contains a Jupyter Notebook titled `Salary_analysis.ipynb`, which provides an in-depth analysis of salary data. The analysis aims to uncover trends, insights, and factors that influence salaries across various professions and demographics through graphical and numerical representation.
 
 ## **Contents**
 - **Salary_analysis.ipynb**: The main Jupyter Notebook containing all the analysis, visualizations, and findings.
